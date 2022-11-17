@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exception handling calc", "exception handling practice\exception handling calc.csproj", "{09965E09-C1D1-475A-AA4B-46F7585B6E54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exception practice", "exception practice", "{A2EA722D-8DD9-4758-B269-4C24FD64028C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMath library", "SimpleMath library\SimpleMath library.csproj", "{4E9FA3B3-460D-4759-AE94-EA7BD539602F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09965E09-C1D1-475A-AA4B-46F7585B6E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09965E09-C1D1-475A-AA4B-46F7585B6E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09965E09-C1D1-475A-AA4B-46F7585B6E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09965E09-C1D1-475A-AA4B-46F7585B6E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9FA3B3-460D-4759-AE94-EA7BD539602F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9FA3B3-460D-4759-AE94-EA7BD539602F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9FA3B3-460D-4759-AE94-EA7BD539602F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9FA3B3-460D-4759-AE94-EA7BD539602F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09965E09-C1D1-475A-AA4B-46F7585B6E54} = {A2EA722D-8DD9-4758-B269-4C24FD64028C}
+		{4E9FA3B3-460D-4759-AE94-EA7BD539602F} = {A2EA722D-8DD9-4758-B269-4C24FD64028C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AF74F90-4B02-4BD3-968F-60DBC19B17D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\pratian proj\squares\bin\Debug\net6.0\squares.exe
+C:\Users\Paras\source\repos\pratian proj\squares\bin\Debug\net6.0\squares.deps.json
+C:\Users\Paras\source\repos\pratian proj\squares\bin\Debug\net6.0\squares.runtimeconfig.json
+C:\Users\Paras\source\repos\pratian proj\squares\bin\Debug\net6.0\squares.dll
+C:\Users\Paras\source\repos\pratian proj\squares\bin\Debug\net6.0\squares.pdb
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.AssemblyInfo.cs
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.dll
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\refint\squares.dll
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.pdb
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\squares.genruntimeconfig.cache
+C:\Users\Paras\source\repos\pratian proj\squares\obj\Debug\net6.0\ref\squares.dll

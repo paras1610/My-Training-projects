@@ -1,0 +1,16 @@
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\bin\Debug\BindingPractice.exe.config
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\bin\Debug\BindingPractice.exe
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\bin\Debug\BindingPractice.pdb
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\MainWindow.g.cs
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\App.g.cs
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice_MarkupCompile.cache
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice_MarkupCompile.lref
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\MainWindow.baml
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.g.resources
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.Properties.Resources.resources
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.csproj.GenerateResource.cache
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.exe
+C:\Users\Paras\source\repos\WPFPractice\BindingPractice\obj\Debug\BindingPractice.pdb

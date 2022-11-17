@@ -1,0 +1,12 @@
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\bin\Debug\net6.0\DAL_sum.deps.json
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\bin\Debug\net6.0\DAL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\bin\Debug\net6.0\DAL_sum.pdb
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.AssemblyInfo.cs
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\refint\DAL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\DAL_sum.pdb
+C:\Users\Paras\source\repos\DBDemo1\DAL_sum\obj\Debug\net6.0\ref\DAL_sum.dll

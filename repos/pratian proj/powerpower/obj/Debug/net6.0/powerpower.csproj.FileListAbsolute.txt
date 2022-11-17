@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\pratian proj\powerpower\bin\Debug\net6.0\powerpower.exe
+C:\Users\Paras\source\repos\pratian proj\powerpower\bin\Debug\net6.0\powerpower.deps.json
+C:\Users\Paras\source\repos\pratian proj\powerpower\bin\Debug\net6.0\powerpower.runtimeconfig.json
+C:\Users\Paras\source\repos\pratian proj\powerpower\bin\Debug\net6.0\powerpower.dll
+C:\Users\Paras\source\repos\pratian proj\powerpower\bin\Debug\net6.0\powerpower.pdb
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.AssemblyInfo.cs
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.dll
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\refint\powerpower.dll
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.pdb
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\powerpower.genruntimeconfig.cache
+C:\Users\Paras\source\repos\pratian proj\powerpower\obj\Debug\net6.0\ref\powerpower.dll

@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\bin\Debug\net6.0\TrainerTrainee.exe
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\bin\Debug\net6.0\TrainerTrainee.deps.json
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\bin\Debug\net6.0\TrainerTrainee.runtimeconfig.json
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\bin\Debug\net6.0\TrainerTrainee.dll
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\bin\Debug\net6.0\TrainerTrainee.pdb
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.AssemblyInfo.cs
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.dll
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\refint\TrainerTrainee.dll
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.pdb
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\TrainerTrainee.genruntimeconfig.cache
+C:\Users\Paras\source\repos\TrainerTrainee\TrainerTrainee\obj\Debug\net6.0\ref\TrainerTrainee.dll

@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPFPractice.practice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFPractice"
+        mc:Ignorable="d"
+        Title="practice" Height="450" Width="800">
+    <Grid x:Name="mybutton" Background="Cyan">
+        <Button x:Name="myimp" Content="Button" HorizontalAlignment="Left" Margin="545,132,0,0" VerticalAlignment="Top" Background="{ DynamicResource Stylecolor}" BorderBrush="#FFC1BE83" Height="85" Width="122" Click="myimp_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF7208E0" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Foreground>
+        </Button>
+        <Button x:Name="green_button" Content="green button" HorizontalAlignment="Left" Margin="153,109,0,0" VerticalAlignment="Top" Height="33" Width="130" Click="green_button_Click"/>
+        <Button x:Name="red_button" Content="redbutton" HorizontalAlignment="Left" Margin="228,198,0,0" VerticalAlignment="Top" Height="41" Width="110" Click="red_button_Click_1"/>
+
+    </Grid>
+</Window>

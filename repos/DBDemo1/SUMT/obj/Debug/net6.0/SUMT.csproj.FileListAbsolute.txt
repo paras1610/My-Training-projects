@@ -1,0 +1,12 @@
+C:\Users\Paras\source\repos\DBDemo1\SUMT\bin\Debug\net6.0\SUMT.deps.json
+C:\Users\Paras\source\repos\DBDemo1\SUMT\bin\Debug\net6.0\SUMT.dll
+C:\Users\Paras\source\repos\DBDemo1\SUMT\bin\Debug\net6.0\SUMT.pdb
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.AssemblyInfo.cs
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.dll
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\refint\SUMT.dll
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\SUMT.pdb
+C:\Users\Paras\source\repos\DBDemo1\SUMT\obj\Debug\net6.0\ref\SUMT.dll

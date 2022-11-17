@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\bin\Debug\net6.0\BLL_sum.deps.json
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\bin\Debug\net6.0\BLL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\bin\Debug\net6.0\BLL_sum.pdb
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\bin\Debug\net6.0\DAL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\bin\Debug\net6.0\DAL_sum.pdb
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.AssemblyInfo.cs
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.csproj.CopyComplete
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\refint\BLL_sum.dll
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\BLL_sum.pdb
+C:\Users\Paras\source\repos\DBDemo1\BLL_sum\obj\Debug\net6.0\ref\BLL_sum.dll

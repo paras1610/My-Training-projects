@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\pratian proj\series12\bin\Debug\net6.0\series12.exe
+C:\Users\Paras\source\repos\pratian proj\series12\bin\Debug\net6.0\series12.deps.json
+C:\Users\Paras\source\repos\pratian proj\series12\bin\Debug\net6.0\series12.runtimeconfig.json
+C:\Users\Paras\source\repos\pratian proj\series12\bin\Debug\net6.0\series12.dll
+C:\Users\Paras\source\repos\pratian proj\series12\bin\Debug\net6.0\series12.pdb
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.AssemblyInfo.cs
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.dll
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\refint\series12.dll
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.pdb
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\series12.genruntimeconfig.cache
+C:\Users\Paras\source\repos\pratian proj\series12\obj\Debug\net6.0\ref\series12.dll

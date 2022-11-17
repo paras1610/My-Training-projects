@@ -1,0 +1,71 @@
+﻿@model IEnumerable<KnowledgeHub.Web.Models.Entities.Article>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArticleURL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Catagory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsApproved)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateSubmitted)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArticleURL)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Catagory.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsApproved)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateSubmitted)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ArticleID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ArticleID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ArticleID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\bin\Debug\net6.0\validatecheck.deps.json
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\bin\Debug\net6.0\validatecheck.dll
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\bin\Debug\net6.0\validatecheck.pdb
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.AssemblyInfo.cs
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.dll
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\refint\validatecheck.dll
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\validatecheck.pdb
+C:\Users\Paras\source\repos\ExceptionLabcode\validatecheck\obj\Debug\net6.0\ref\validatecheck.dll

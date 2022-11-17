@@ -1,0 +1,12 @@
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\bin\Debug\net6.0\SimpleMath library.deps.json
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\bin\Debug\net6.0\SimpleMath library.dll
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\bin\Debug\net6.0\SimpleMath library.pdb
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.AssemblyInfo.cs
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.dll
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\refint\SimpleMath library.dll
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\SimpleMath library.pdb
+C:\Users\Paras\source\repos\exception handling practice\SimpleMath library\obj\Debug\net6.0\ref\SimpleMath library.dll

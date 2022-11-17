@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BLL_sum/1.0.0": {
+        "dependencies": {
+          "DAL_sum": "1.0.0"
+        },
+        "runtime": {
+          "BLL_sum.dll": {}
+        }
+      },
+      "DAL_sum/1.0.0": {
+        "runtime": {
+          "DAL_sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLL_sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL_sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

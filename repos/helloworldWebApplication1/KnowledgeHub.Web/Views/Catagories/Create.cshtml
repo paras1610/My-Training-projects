@@ -1,0 +1,69 @@
+﻿
+@*  this is html helper tag  approach    -***  most recommended *@
+            
+              @* stronrly typed view  *@ 
+              @* creating object helps error less code *@  
+@model KnowledgeHub.Web.Models.Entities.Catagory     
+                 
+
+@*for web application, validations should be from both side client as well as server side
+  for client side validation. we have pre-written js script which we can directly add  
+*@
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+@*these script should be in same order jquery->jqueryvalidation->jqueryunobtrusive*@
+
+<form asp-action="Create" asp-controller="catagories" method="post">
+     
+     Enter category name<br />
+     <input asp-for="Name" /> 
+   
+      @*this tag check for validation if any it prompts the user     ***server side validation    *@
+    
+     <span asp-validation-for="Name"></span> <br />     
+     
+     <br /> 
+     Enter description <br />
+     <textarea asp-for="Description"></textarea>
+     <input type="submit" name="btnsubmit" value="Create" />
+
+</form>
+
+
+
+
+@*  this is htmlhelper method approach 
+
+@using(Html.BeginForm("create","catagories"))
+{
+    @Html.Label("Name") <br />
+    @Html.TextBox("Name")<br />
+    @Html.Label("Description")<br />
+    @Html.TextArea("Description")<br />
+    <input type="submit" name="btnsubmit" value="create" />
+ }
+*@
+
+
+
+
+
+
+
+@* This is pure html code 
+
+<form action="Create" method="post">
+
+    Enter Catagory Name<br/>
+    <input type="text" name="name" /><br/>
+    Enter Description<br />
+    <textarea name="description" rows="6" colls="60"></textarea><br />
+    <input type="submit" name="btnSubmit" />
+
+
+</form>
+*@
+
+

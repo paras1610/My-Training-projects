@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\bin\Debug\net6.0\assessmentlab.exe
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\bin\Debug\net6.0\assessmentlab.deps.json
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\bin\Debug\net6.0\assessmentlab.runtimeconfig.json
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\bin\Debug\net6.0\assessmentlab.dll
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\bin\Debug\net6.0\assessmentlab.pdb
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.AssemblyInfo.cs
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.dll
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\refint\assessmentlab.dll
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.pdb
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\assessmentlab.genruntimeconfig.cache
+C:\Users\Paras\source\repos\assessmentlab\assessmentlab\obj\Debug\net6.0\ref\assessmentlab.dll

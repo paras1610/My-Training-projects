@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExceptionLabcode/1.0.0": {
+        "dependencies": {
+          "validatecheck": "1.0.0"
+        },
+        "runtime": {
+          "ExceptionLabcode.dll": {}
+        }
+      },
+      "validatecheck/1.0.0": {
+        "runtime": {
+          "validatecheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionLabcode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "validatecheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

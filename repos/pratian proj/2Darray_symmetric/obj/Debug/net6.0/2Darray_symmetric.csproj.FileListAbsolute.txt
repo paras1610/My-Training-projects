@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\bin\Debug\net6.0\2Darray_symmetric.exe
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\bin\Debug\net6.0\2Darray_symmetric.deps.json
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\bin\Debug\net6.0\2Darray_symmetric.runtimeconfig.json
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\bin\Debug\net6.0\2Darray_symmetric.dll
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\bin\Debug\net6.0\2Darray_symmetric.pdb
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.AssemblyInfo.cs
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.dll
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\refint\2Darray_symmetric.dll
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.pdb
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\2Darray_symmetric.genruntimeconfig.cache
+C:\Users\Paras\source\repos\pratian proj\2Darray_symmetric\obj\Debug\net6.0\ref\2Darray_symmetric.dll

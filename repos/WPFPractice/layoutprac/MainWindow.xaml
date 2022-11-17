@@ -1,0 +1,85 @@
+﻿<Window x:Class="layoutprac.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:layoutprac"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="316" Width="457">
+    <DockPanel>
+                <Menu DockPanel.Dock="Top" >
+                    <MenuItem Header="MY Notepad "></MenuItem>
+                </Menu>
+        <Menu DockPanel.Dock= "Top">
+            <MenuItem  Header="File">
+                <MenuItem Header="New"></MenuItem>
+                <MenuItem Header="NewWindow"></MenuItem>
+                <MenuItem Header="Open"></MenuItem>
+                <MenuItem Header="Save"></MenuItem>
+                <MenuItem Header="Exit"></MenuItem>
+
+            </MenuItem>
+
+            <Menu DockPanel.Dock= "Top">
+                <MenuItem  Header="Edit">
+                    <MenuItem Header="Undo"></MenuItem>
+                    <MenuItem Header="Cut"></MenuItem>
+                    <MenuItem Header="Copy"></MenuItem>
+                    <MenuItem Header="Paste"></MenuItem>
+                </MenuItem>
+
+            </Menu>
+            <Menu DockPanel.Dock= "Top">
+                <MenuItem  Header="Format">
+                    <MenuItem Header="Font"></MenuItem>
+                    <MenuItem Header="Theme"></MenuItem>
+                    <MenuItem Header="WordWrap"></MenuItem>
+                </MenuItem>
+            </Menu>
+            <Menu DockPanel.Dock= "Top">
+                <MenuItem  Header="view">
+                    <MenuItem Header="Single window"></MenuItem>
+                    <MenuItem Header="Double Window"></MenuItem>
+                    <MenuItem Header="Orientation">
+                        <MenuItem Header="Landscape"></MenuItem>
+                        <MenuItem Header="Portrait"></MenuItem>
+                    </MenuItem>
+                    <MenuItem Header="Presentaion"></MenuItem>
+                    <MenuItem Header="Full screen"></MenuItem>
+                </MenuItem>
+
+            </Menu>
+        </Menu>
+        <DockPanel>
+            <Menu DockPanel.Dock="Left">
+                <MenuItem  Header="Tools">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+                            <Label Background="Red" Margin="5" >a</Label>
+                            <Label Background="Purple" Margin="5" >b</Label>
+                            <Label Background="Pink" Margin="5">c</Label>
+                            <Label Background="Orange" Margin="5">d</Label>
+                            <Label Background="Blue" Margin="5">e</Label>
+                            <Label Background="Green" Margin="5">f</Label>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <Label Background="Violet" Margin="5">g</Label>
+                            <Label Background="Indigo" Margin="5">h</Label>
+                            <Label Background="Yellow" Margin="5" >i</Label>
+                            <Label Background="Aqua" Margin="5">j</Label>
+                            <Label Background="Black" Margin="5">k</Label>
+                            <Label Background="Red" Margin="5">l</Label>
+                        </StackPanel>
+                    </Grid>
+                </MenuItem>
+                
+            </Menu>
+            <RichTextBox Margin="10"></RichTextBox>
+        </DockPanel>      
+       
+    </DockPanel>
+</Window>

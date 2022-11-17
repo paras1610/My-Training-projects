@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\inheritance\hasArelation\bin\Debug\net6.0\hasArelation.exe
+C:\Users\Paras\source\repos\inheritance\hasArelation\bin\Debug\net6.0\hasArelation.deps.json
+C:\Users\Paras\source\repos\inheritance\hasArelation\bin\Debug\net6.0\hasArelation.runtimeconfig.json
+C:\Users\Paras\source\repos\inheritance\hasArelation\bin\Debug\net6.0\hasArelation.dll
+C:\Users\Paras\source\repos\inheritance\hasArelation\bin\Debug\net6.0\hasArelation.pdb
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.AssemblyInfo.cs
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.dll
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\refint\hasArelation.dll
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.pdb
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\hasArelation.genruntimeconfig.cache
+C:\Users\Paras\source\repos\inheritance\hasArelation\obj\Debug\net6.0\ref\hasArelation.dll

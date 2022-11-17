@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling practice.exe
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling practice.deps.json
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling practice.runtimeconfig.json
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling practice.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling practice.pdb
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.AssemblyInfo.cs
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\refint\exception handling practice.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.pdb
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling practice.genruntimeconfig.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\ref\exception handling practice.dll

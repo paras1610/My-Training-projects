@@ -1,0 +1,18 @@
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling calc.exe
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling calc.deps.json
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling calc.runtimeconfig.json
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling calc.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\exception handling calc.pdb
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.AssemblyInfo.cs
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\refint\exception handling calc.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.pdb
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.genruntimeconfig.cache
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\ref\exception handling calc.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\SimpleMath library.dll
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\bin\Debug\net6.0\SimpleMath library.pdb
+C:\Users\Paras\source\repos\exception handling practice\exception handling practice\obj\Debug\net6.0\exception handling calc.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionLabcode", "ExceptionLabcode\ExceptionLabcode.csproj", "{D95A0E58-B8AD-4C89-B134-756CC9133F56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exception Lab prob 1", "Exception Lab prob 1", "{385A184D-D2D9-4D66-AFC2-D827F5D184B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validatecheck", "validatecheck\validatecheck.csproj", "{9AB552E9-4E06-49F8-AA48-8A2900893551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95A0E58-B8AD-4C89-B134-756CC9133F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95A0E58-B8AD-4C89-B134-756CC9133F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95A0E58-B8AD-4C89-B134-756CC9133F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95A0E58-B8AD-4C89-B134-756CC9133F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB552E9-4E06-49F8-AA48-8A2900893551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB552E9-4E06-49F8-AA48-8A2900893551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB552E9-4E06-49F8-AA48-8A2900893551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB552E9-4E06-49F8-AA48-8A2900893551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D95A0E58-B8AD-4C89-B134-756CC9133F56} = {385A184D-D2D9-4D66-AFC2-D827F5D184B6}
+		{9AB552E9-4E06-49F8-AA48-8A2900893551} = {385A184D-D2D9-4D66-AFC2-D827F5D184B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE75982-655C-42A9-A9D4-188DD2375AFC}
+	EndGlobalSection
+EndGlobal
